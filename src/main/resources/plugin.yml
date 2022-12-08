@@ -1,0 +1,3 @@
+name: RealisticExplosion
+version: '${project.version}'
+main: me.moteloff.realisticexplosion.Main
